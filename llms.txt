@@ -1,0 +1,19 @@
+# Creatify AI
+
+> Creatify AI is an AI Tools platform with API access on a reasonable tier. 15% off at $39 in June 2026.
+
+## Quick Info
+- Category: AI Tools
+- Rating: 4.9/5
+- URL: https://creatify.ai
+- Promo Code: card
+- Discount: 15% off — $39
+
+## Description
+Creatify AI delivers focused content-creation with API access included without enterprise sales calls. The default outputs are ship-ready without heavy editorial. Integrations cover Zapier, Make, Slack, Notion, and Google Workspace. Predictable releases on a regular cadence.
+
+## Key Features
+- API access on reasonable tier (no enterprise sales calls)
+- Ship-ready default outputs
+- Integrations for 80% of common stacks
+- Free tier available with limitations

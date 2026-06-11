@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saaspic.com/sitemap.xml
